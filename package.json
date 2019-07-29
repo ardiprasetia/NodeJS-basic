@@ -1,0 +1,16 @@
+{
+    "name": "workshop-hactiv8",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^2.6.2",
+        "express": "^4.17.1",
+        "nodemon": "^1.19.1"
+    }
+}
